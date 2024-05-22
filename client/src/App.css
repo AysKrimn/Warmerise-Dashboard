@@ -1,0 +1,32 @@
+
+.app-nav-logo {
+
+    max-width: 60px;
+}
+
+
+.app-bg {
+    
+    background-image: url("w_poster.jpg");
+    min-height: 30vh;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-color: #16193b;
+}
+.app-nav-logo-text {
+
+    text-decoration: none;
+    color: inherit;
+}
+
+.w-username a {
+
+    text-decoration: none;
+
+}
+
+.img-ava-soldier {
+
+    width: 100%;
+}
